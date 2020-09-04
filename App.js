@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   },
 });
 
-
+asdfasdfasedfasdf
 
 
 // Create the expo init
@@ -33,3 +33,5 @@ const styles = StyleSheet.create({
   "git add . "                          : Add files to container
   "git commit -m 'Insert comment here' ": Saves the container
   "git push"                            : Pushes the container to github
+
+  "git log"                             : Check history of commitments
