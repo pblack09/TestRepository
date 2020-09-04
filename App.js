@@ -19,3 +19,17 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
+
+
+// Create the expo init
+// Github > create repository
+    // git remote add origin https://github.com/pblack09/TestRepository.git
+    // git commit -m "Added in splash and icon"
+    // git push - u origin master
+
+  "git status"                          : Checks if files are in container
+  "git add . "                          : Add files to container
+  "git commit -m 'Insert comment here' ": Saves the container
+  "git push"                            : Pushes the container to github
